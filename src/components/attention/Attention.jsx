@@ -15,8 +15,8 @@ export default function Attention() {
                     <img src="https://st2.depositphotos.com/6922808/9719/i/600/depositphotos_97197562-stock-photo-medellin-colombia-july-28-2015.jpg" alt="" class="rounded-circle"/>
                 </div>
                 <div className="attention__point">
-                    <h2><Pereira></Pereira></h2>
-                    <img src="https://i0.wp.com/blog.soyrappi.com/wp-content/uploads/2020/01/Pereira.jpg?fit=900%2C605&ssl=1" alt="" class="rounded-circle"/>
+                    <h2>Pereira</h2>
+                    <img src="https://p4.wallpaperbetter.com/wallpaper/149/909/260/aerial-view-of-miami-beach-wallpaper-preview.jpg" alt="" class="rounded-circle"/>
                 </div>
                 <div className="attention__point">
                     <h2>Bogotá</h2>
@@ -24,7 +24,7 @@ export default function Attention() {
                 </div>
                 <div className="attention__point">
                     <h2>Armenia</h2>
-                    <img src="https://static.wixstatic.com/media/0102bb_de7c0e4eec77440e81714b5ffeada1cd~mv2.jpg/v1/fill/w_558,h_425,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/0102bb_de7c0e4eec77440e81714b5ffeada1cd~mv2.jpg"/>
+                    <img src="https://thumbs4.properati.com/0/Eeh5zakC1nyM2JMbzvDJ1OBJqYM=/trim/fit-in/0x0/smart/filters:strip_icc()/https://properati-s3-co.s3-us-west-2.amazonaws.com/temp-developments-editor-60b33bde-daa9-459b-a3a2-6ba08779dfa7-b0e82bb3c0f6fecbbb5d3ebef46701ad.jpg" alt="" class="rounded-circle"/>
                 </div>
             </div>
         </div>
