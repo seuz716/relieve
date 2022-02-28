@@ -1,5 +1,5 @@
 .separador{
-    background-color: #dc7633ff;
+    background-color:rgba(224,6,20,255);
     padding: 1%;
     color:white;
     padding-bottom: 15px;
@@ -65,7 +65,7 @@ h2{
 margin: 0.1rem;
 padding: 0.1rem;
 text-align:center;
-background: #dc7633ff;
+background: #dc0413;
 font-size: 4.5rem;
 color: white; 
 }  

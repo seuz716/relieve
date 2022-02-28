@@ -1,5 +1,5 @@
 .baseDiv{
-    background:lightgrey;
+    background:rgba(185,185,185,255);
     padding: 1%;    
 }
 .formulario {
@@ -22,7 +22,7 @@
     font-size: 20px;
     font-weight: bold;
     padding: 5px 25px 10px 25px;
-    background-color: rgb(255, 73, 1);
+    background-color: rgba(224,6,20,255);
     color: rgb(255, 255, 255);
     text-decoration: none;
     border-radius: 30px;

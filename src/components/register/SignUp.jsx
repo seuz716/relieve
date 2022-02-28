@@ -72,7 +72,7 @@ export default function SingUp() {
                       <div className="col-lg-6">
                         <div className="card-body p-md-5 mx-md-4">
                         <img src={logo} style={{width:90}} alt="logo" />
-                            <h4 className="mt-1 mb-1 pb-1">We are The Brexiu Team</h4>
+                            <h4 className="mt-1 mb-1 pb-1">Relieve sas</h4>
 
                           <form id="form">
                             <h3>Registro de nuevo usuario</h3>

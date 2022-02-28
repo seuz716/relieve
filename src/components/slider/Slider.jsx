@@ -1,4 +1,7 @@
 import React from 'react'
+import casa from '../../images/casa.jpg';
+import casa1 from '../../images/casa1.jpg';
+import ingenieros from '../../images/ingenieros.jpg';
 
 export default function Slider() {
     return (
@@ -10,21 +13,21 @@ export default function Slider() {
             </div>
             <div className="carousel-inner">
               <div className="carousel-item active">
-                <img src="https://lahaus.imgix.net/uploads/real_estate_attachment/picture/9647/san_martin_apartamento_modelo_5.jpg?auto=compress%2Cenhance%2Cformat&q=25&w=750&h=500&fit=crop&crop=edges" className="d-block w-100" width="304" height="570" alt="Casas" />
+                <img src={casa} className="d-block w-100" width="304" height="570" alt="Casas" />
                 <div className="carousel-caption d-none d-md-block">
                   <h5>First slide label</h5>
                   <p>Some representative placeholder content for the first slide.</p>
                 </div>
               </div>
               <div className="carousel-item">
-                <img src="https://static7.depositphotos.com/1041088/758/i/600/depositphotos_7589448-stock-photo-large-beige-house-with-green.jpg" className="d-block w-100" width="304" height="570" alt="Apartamentos" />
+                <img src={casa1} className="d-block w-100" width="304" height="570" alt="Apartamentos" />
                 <div className="carousel-caption d-none d-md-block">
                   <h5>Second slide label</h5>
                   <p>Some representative placeholder content for the second slide.</p>
                 </div>
               </div>
               <div className="carousel-item">
-                <img src="https://st2.depositphotos.com/1041088/7766/i/600/depositphotos_77665926-stock-photo-large-modern-house-with-stone.jpg" className="d-block w-100" width="304" height="570" alt="Locales" />
+                <img src={ingenieros} className="d-block w-100" width="304" height="570" alt="Locales" />
                 <div className="carousel-caption d-none d-md-block">
                   <h5>Third slide label</h5>
                   <p>Some representative placeholder content for the third slide.</p>
