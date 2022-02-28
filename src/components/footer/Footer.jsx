@@ -57,16 +57,16 @@ export default function Footer() {
                           Categorias
                         </h6>
                         <p>
-                          <a href="#!" className="text-reset text-decoration-none">Apartamentos</a>
+                          <a href="#!" className="text-reset text-decoration-none">Proyectos</a>
                         </p>
                         <p>
-                          <a href="#!" className="text-reset text-decoration-none">Casas</a>
+                          <a href="#!" className="text-reset text-decoration-none">Nosotros</a>
                         </p>
                         <p>
-                          <a href="#!" className="text-reset text-decoration-none">Lotes</a>
+                          <a href="#!" className="text-reset text-decoration-none">Consultenos</a>
                         </p>
                         <p>
-                          <a href="#!" className="text-reset text-decoration-none">Bienes raices</a>
+                          <a href="#!" className="text-reset text-decoration-none">Obras </a>
                         </p>
                       </div>
 
@@ -109,7 +109,7 @@ export default function Footer() {
                   </div>
                 </section>
                 <div className="text-center p-4" >
-                  © {year} Copyright Grupo Relieve
+                  © {year} Copyright Relieve
                 </div>
 
               </footer>
