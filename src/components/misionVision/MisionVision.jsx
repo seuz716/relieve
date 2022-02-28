@@ -17,30 +17,30 @@ export default function Misionvision() {
             <div className="Nuestroequipo">
                 <div className="empleado1">
                     <img className="imgEquipo" src="https://www.editorialcaliope.com/wp-content/uploads/2016/12/silueta-hombre.png" alt="Foto1" />
-                    <p className="PMisionvision">Cesar Abadia</p>
+                    <p className="PMisionvision">Gerente</p>
                 </div>
                 <div className="empleado1">
                      <img className="imgEquipo" src="https://www.editorialcaliope.com/wp-content/uploads/2016/12/silueta-hombre.png" alt="Foto2" />
-                     <p className="PMisionvision">David Charif</p>
+                     <p className="PMisionvision">Director XXXXX </p>
                 </div>
                  <div className="empleado1">
                     <img className="imgEquipo" src="https://image.flaticon.com/icons/png/512/56/56863.png" alt="Foto3" />
-                    <p className="PMisionvision">Jennifer Alarcon</p>
+                    <p className="PMisionvision">Directora XXXXXXXX</p>
                 </div>
                 <div className="empleado1">
                     <img className="imgEquipo" src="https://www.editorialcaliope.com/wp-content/uploads/2016/12/silueta-hombre.png" alt="Foto4" />
-                    <p className="PMisionvision">Wilson Rueda</p>
+                    <p className="PMisionvision">Especialista XXXXX</p>
                  </div>
                  <div className="empleado1">
                     <img className="imgEquipo" src="https://www.editorialcaliope.com/wp-content/uploads/2016/12/silueta-hombre.png" alt="Foto5" />
-                    <p className="PMisionvision">Jaime Valencia</p>
+                    <p className="PMisionvision"></p>
                  </div>   
             </div>
             
         <div className="contenedorMisionVision" >
             <h2 className="HMisionVision">VISION</h2>
             <p className="PMisionvision">
-                Seremos la compañía líder en la región y en el país en la oferta de servicios y productos de ingenieria civil, con respeto por el medio ambiente, con sentido social y de pertenencia por nuestra riqueza natural y cultural.
+                Seremos la compañía líder en la región y en el país en la oferta de servicios y productos xxxxxx.
             </p>  
         </div>
         <Attention />
