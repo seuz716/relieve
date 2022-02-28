@@ -33,7 +33,7 @@ export default function Misionvision() {
                  </div>
                  <div className="empleado1">
                     <img className="imgEquipo" src="https://www.editorialcaliope.com/wp-content/uploads/2016/12/silueta-hombre.png" alt="Foto5" />
-                    <p className="PMisionvision"></p>
+                    <p className="PMisionvision">Especialista XXXXX</p>
                  </div>   
             </div>
             
