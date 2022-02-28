@@ -45,11 +45,11 @@ export default function ContactForm() {
             <div className="formulario">
 
                 <div className="formData">
-                    <p className="formData__parrafo">Bogota</p>
-                    <p className="formData__parrafo">Cel: 3101235223</p>
-                    <p className="formData__parrafo">Tel: 604453213</p>
+                    <p className="formData__parrafo">XXXXXX</p>
+                    <p className="formData__parrafo">Cel: 31xxxxxxxx</p>
+                    <p className="formData__parrafo">Tel: xxxxxxxxxx</p>
                     <p className="formData__parrafo">Email: contacto@relieve.com</p>
-                    <p className="formData__parrafo">Direccion: Transversal 59 con diagonal 32</p>
+                    <p className="formData__parrafo">Direccion: Transversal xx con diagonal xx</p>
                 </div>
             
                 <div className="formNombre">
