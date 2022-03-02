@@ -8,8 +8,7 @@ export default function Misionvision() {
         <div className="contenedorMisionVision" >
             <h1 className="HMisionVision">MISION</h1>
             <p className="PMisionvision">
-               Para el 2040 seremos una compañia consolidada con aliados estratégicos y con presencia en el mercado nacional, teniendo además participación en la formanción de innovación del sector constructivo del pais.
-            </p>  
+               Planear y desarrollar proyectos constructivos con valor social y ambiental, identificado por altos estandares de diseño y calidad ofreciendo siempre las mejores alternativas segun las necesidades propias de nuestros clientes   </p>  
         </div>
             
             <h2 className="title">NUESTRO EQUIPO</h2>
@@ -40,7 +39,7 @@ export default function Misionvision() {
         <div className="contenedorMisionVision" >
             <h2 className="HMisionVision">VISION</h2>
             <p className="PMisionvision">
-                Seremos la compañía líder en la región y en el país en la oferta de servicios y productos xxxxxx.
+            Para el 2040 seremos una compañia consolidada con aliados estratégicos y con presencia en el mercado nacional, teniendo además participación en la formanción de innovación del sector constructivo del pais.
             </p>  
         </div>
         <Attention />
