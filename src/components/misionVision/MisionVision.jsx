@@ -8,7 +8,7 @@ export default function Misionvision() {
         <div className="contenedorMisionVision" >
             <h1 className="HMisionVision">MISION</h1>
             <p className="PMisionvision">
-                Nulla quis eu aliqua elit cillum enim. Officia minim consectetur esse aliqua exercitation ex. Elit nostrud do velit tempor. Do nostrud nostrud aliqua ea tempor nulla esse anim. Est ipsum dolor anim deserunt dolor consectetur aute nisi..
+               Para el 2040 seremos una compañia consolidada con aliados estratégicos y con presencia en el mercado nacional, teniendo además participación en la formanción de innovación del sector constructivo del pais.
             </p>  
         </div>
             
