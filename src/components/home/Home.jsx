@@ -12,9 +12,9 @@ export default function Home() {
       <div>
           <Slider />
           <About />
-          <Title title="Servicios Relieve"/>
+          <Title title="Servicios Relieve Ingeniería SAS"/>
           <Properties />
-          <Title title="Experiencias Relieve" />
+          <Title title="Experiencias Relieve Ingeniería SAS" />
           <CustomerExperience />
           <CustomerInversion />
           <ContactForm />
