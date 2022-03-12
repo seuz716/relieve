@@ -1,5 +1,6 @@
 .contenedorAbout{
-    background-color:#87CEEB;
+    font-family: 'Montserrat', sans-serif;
+    background-color:white;
     padding-bottom: 20px;  
 }
 
@@ -22,6 +23,7 @@
     color: #F24957;
     text-decoration: none;
     border-radius: 30px;
+    
     }
 
 
