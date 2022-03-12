@@ -6,9 +6,15 @@ import './header.css'
 export default function Header() {
     return (
         <div>
+<<<<<<< HEAD
             <nav className="navbar navbar-expand-lg navbar-light fw-bold" style={{background:'#ffffff'}}>
                 <div className="container-fluid">
                 <Link className="navbar-brand" to="/"><img className='foto' src={logo}  alt="Relieve logo"/><strong>   Relieve SAS</strong></Link>
+=======
+            <nav className="navbar navbar-expand-lg navbar-light fw-bold" style={{background:'#ffffff '}}>
+                <div className="container-fluid">
+                <Link className="navbar-brand" to="/"><img src={logo} width="90" height="60" alt="Relieve logo"/><strong> Relieve Ingenieria SAS</strong></Link>
+>>>>>>> 3e18c8b90fabbdccb0f683db4d5ceb40975fb8a6
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                   <span className="navbar-toggler-icon"></span>
                 </button>
