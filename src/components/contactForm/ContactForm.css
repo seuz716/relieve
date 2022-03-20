@@ -1,6 +1,7 @@
 .baseDiv{
     background:white;
-    padding: 1%;    
+    padding: 1%;  
+    font-family: 'Montserrat', sans-serif;  
 }
 .formulario {
     display: flex;
@@ -10,7 +11,8 @@
     text-align: left;
     font-weight: bold;
     text-shadow: 0px 0px #000000;
-    margin-bottom: 20px;  
+    margin-bottom: 20px; 
+    font-family: 'Montserrat', sans-serif; 
 }
 /* .tituloFormData{
     color: orange;
@@ -26,18 +28,22 @@
     color: rgb(255, 255, 255);
     text-decoration: none;
     border-radius: 30px;
+    font-family: 'Montserrat', sans-serif;
 }
 .formData {
     padding: 1%;
     margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
 }
 .formNombre {
     padding: 1%;
     margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .formData__parrafo{
     font-size: 1.3rem;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .form-control{

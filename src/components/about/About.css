@@ -1,12 +1,12 @@
 .contenedorAbout{
-    font-family: 'Montserrat', sans-serif;
-    background-color:white;
+    font-family: 'Montserrat';
+    background-color: #F7AA00;
     padding-bottom: 20px;  
 }
 
 .Qsomos{
     font-size: 60px;
-    color: white;   
+    color: #E10613;   
 }
 
 .PqSomos{

@@ -1,3 +1,81 @@
-.navbar{
-    font-family: 'Montserrat', sans-serif;
+header {
+    
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    font-family: Montserrat;
+    font-weight: bolder;
+   	width:100%; /* Establecemos que el header abarque el 100% del documento */
+	overflow:hidden; /* Eliminamos errores de float */
+	background:#86CFEE;
+	margin-bottom:20px;
+}
+
+.wrapper {
+
+	width:90%; /* Establecemos que el ancho sera del 90% */
+	max-width:1000px; /* Aqui le decimos que el ancho máximo sera de 1000px */
+	margin:auto; /* Centramos los elementos */
+	overflow:hidden; /* Eliminamos errores de float */
+}
+
+header .logo {
+	color:#E10613;
+	font-size:80px;
+	line-height:150px;
+	float:right;
+    font-family: Montserrat;
+   
+}
+
+header nav {
+	float:right;
+	line-height:30%;
+}
+
+header nav a {
+	display:inline-block;
+	color:#E10613;
+	text-decoration:none;
+	padding:10px 20px;
+	line-height:normal;
+	font-size:20px;
+	font-weight:bold;
+	-webkit-transition:all 500ms ease;
+	-o-transition:all 500ms ease;
+	transition:all 500ms ease;
+}
+
+header nav a:hover {
+	background:#F7AA00;
+	border-radius:50px;
+}   
+
+.profile-picture{
+   
+
+    display: flex;
+    align-items: right;
+    justify-content: center;
+    box-shadow: 0 1px 0 0 var(--white);
+    border-radius: 50%;
+    height: 180px;
+    width: 180px ;
+    margin: 0 0px 0 100px;
+}
+.profile-picture-background{
+  
+    height: 100%;
+    width: 100%;
+    background-image: url(../../images/logo.jpg);
+    background-size: cover;
+    border-radius: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.profile-picture-background:hover { 
+    transform: scale(1.07);
+    transition: 1s ease-out ;
+    border:solid #E10613 5px;
 }

@@ -9,6 +9,7 @@
     color: rgba(224,6,20,255); /*color texto*/
     text-decoration: none; /*decoración texto*/
     border-radius: 30px; /*bordes redondos*/
+    font-family: 'Montserrat', sans-serif;
 }
 
 .rounded{
@@ -22,6 +23,7 @@
     flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
+    font-family: 'Montserrat';
 }
 
 .cont__img{

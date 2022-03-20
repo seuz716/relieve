@@ -1,4 +1,5 @@
 .properti{
+    font-family: 'Montserrat';
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;

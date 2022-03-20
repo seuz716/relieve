@@ -4,6 +4,7 @@
     color:white;
     padding-bottom: 15px;
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .carrusel{
@@ -36,6 +37,7 @@
     align-content: center;
     justify-content: center;
     text-align: justify;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .ContenedorParrafo{
