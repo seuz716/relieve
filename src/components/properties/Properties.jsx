@@ -19,7 +19,7 @@ export default function Properties() {
                 </div>
                 <div className="cont__img">
                     <img src={mesa} className="rounded"  alt="Proyectos"/>
-                    <Link type="button" className="btn btn-light bton" to="Proyectos">Ver mas</Link>
+                    <Link type="button" className="btn btn-light bton" to="proyectos">Ver mas</Link>
                 </div>
                 <div className="cont__img">
                     <img src={obra} className="rounded"  alt="Conocenos"/>

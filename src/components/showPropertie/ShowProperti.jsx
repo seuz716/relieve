@@ -42,7 +42,7 @@ export default function ShowProperti(props) {
                 />
             )}
         </div>
-        <ContactForm />
+       
         </>
     )
 }

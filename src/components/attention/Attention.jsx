@@ -4,7 +4,7 @@ import './Attention.css'
 export default function Attention() {
     return (
         <div className="container__attention">
-            <h1 className="title__attention">PUNTOS DE ATENCION</h1>
+            <h2 className="title__attention">Puntos de atención</h2>
             <div className="attention">
                 <div className="attention__point">
                     <h2>Cali</h2>

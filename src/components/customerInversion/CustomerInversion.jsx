@@ -13,12 +13,12 @@ export default function CustomerInversion() {
         <div className="CustomerInversion">
               <div className="ContenedorBtn">
                 <img className="Customer" src={edificio} alt="" width="100%" /> <br />
-                <Link class="btnInversion" to="#">Conoce Más</Link>
+                <Link class="btnInversion" to="dashboard">Conoce Más</Link>
               </div> 
               
               <div className="ContenedorBtn">
                 <img className="Customer" src={edificio1} alt="" width="100%" /> <br /> 
-                <Link class="btnInversion" to="#">Conoce Más</Link>
+                <Link class="btnInversion" to="conocenos">Conoce Más</Link>
               </div>  
             
         </div>

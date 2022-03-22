@@ -19,10 +19,10 @@ export default function Header() {
 			
 			<nav>
       
-				<a href="#">Inicio</a>
-				<a href="#">Servicios</a>
-				<a href="#">Proyectos</a>
-				<a href="#">Contacto</a>
+				<a href="/">Inicio</a>
+				<a href="servicios">Servicios</a>
+				<a href="proyectos">Proyectos</a>
+				<a href="register">Contacto</a>
 			</nav>
 		</div>
 	</header>

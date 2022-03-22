@@ -11,6 +11,7 @@ import MisionVision from './components/misionVision/MisionVision'
 import './App.css';
 import ShowProperti from "./components/showPropertie/ShowProperti";
 import Dasboard from "./components/dasboard/Dasboard";
+import Slider from "./components/slider/Slider";
 
 
 
@@ -23,12 +24,12 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="login" element={<Login/>} />
-          <Route path="inversiones" element={<Inversiones/>} />
+          <Route path="asesorias" element={<Inversiones/>} />
           <Route path="register" element={<SignUp/>} />
           <Route path="misionvision" element={<MisionVision/>} />
-          <Route path="apartamento" element={<ShowProperti/>} />
-          <Route path="lote" element={<ShowProperti/>} />
-          <Route path="casa" element={<ShowProperti/>} />
+          <Route path="proyectos" element={<Inversiones/>} />
+          <Route path="servicios" element={<Slider />} />
+          <Route path="conocenos" element={<ShowProperti/>} />
           <Route path="dasboard" element={<Dasboard/>} />
           <Route path="*" element={<PageNotFound />} />
         </Routes>
