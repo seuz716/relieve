@@ -4,7 +4,8 @@
     flex-direction: row;
     flex-wrap: wrap;
     margin-bottom: 1%;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat';
+    background-color: #F7AA00;
 }
 .testimonio{
     margin-top: 80px;
@@ -17,11 +18,20 @@
     border-radius: 5%;
    /*  background-color: #EAEDED; */
     padding-bottom: 0.5%;
+    color: red;
 }
 .imgCustomer{
     position: absolute;
     border-radius: 50%;
     width: 50%;
-    top: -25%;
+    top: -15%;
     right: 23%;
+}
+.contenedor{
+    padding-top: 0;
+}
+.historia{
+    font-family: 'Montserrat';
+    color: black;
+   
 }

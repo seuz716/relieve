@@ -1,10 +1,9 @@
 header {
     
-    display: flex;
-    align-items: center;
-    flex-direction: row;
+    
     font-family: Montserrat;
     font-weight: bolder;
     color: red;
+    font-size: larger;
  
 }

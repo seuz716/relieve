@@ -7,9 +7,9 @@ header {
     font-weight: bolder;
    	width:100%; /* Establecemos que el header abarque el 100% del documento */
 	overflow:hidden; /* Eliminamos errores de float */
-	background:#86CFEE;
-	margin-bottom:20px;
-}
+	background:#F7AA00;
+	margin-bottom:0px;
+}	
 
 .wrapper {
 
@@ -47,7 +47,7 @@ header nav a {
 }
 
 header nav a:hover {
-	background:#F7AA00;
+	background:#86CFEE;
 	border-radius:50px;
 }   
 
