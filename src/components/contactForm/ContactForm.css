@@ -1,7 +1,9 @@
+
 .baseDiv{
-    background:white;
+    background:#F7AA00;
     padding: 1%;  
-    font-family: 'Montserrat', sans-serif;  
+    font-family: 'Montserrat'; 
+    color: black; 
 }
 .formulario {
     display: flex;
@@ -10,40 +12,40 @@
     justify-content: space-around;
     text-align: left;
     font-weight: bold;
-    text-shadow: 0px 0px #000000;
+    text-shadow: 0px 0px #F7AA00;
     margin-bottom: 20px; 
-    font-family: 'Montserrat', sans-serif; 
+    font-family: 'Montserrat'; 
 }
-/* .tituloFormData{
-    color: orange;
+.tituloFormData{
+    color: #E10613;
     border: 20px black;
     font-weight: bold;
-    text-shadow: 2px 2px #000000;
-} */
+    text-shadow: 2px 2px #F7AA00    ;
+} 
 .botonFormulario {
     font-size: 20px;
     font-weight: bold;
     padding: 5px 25px 10px 25px;
-    background-color: rgba(224,6,20,255);
+    background-color: #E10613;
     color: rgb(255, 255, 255);
     text-decoration: none;
     border-radius: 30px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat';
 }
 .formData {
     padding: 1%;
     margin-bottom: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat';
 }
 .formNombre {
     padding: 1%;
     margin-bottom: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat';
 }
 
 .formData__parrafo{
     font-size: 1.3rem;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat';
 }
 
 .form-control{

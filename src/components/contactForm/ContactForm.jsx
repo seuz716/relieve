@@ -40,7 +40,7 @@ export default function ContactForm() {
 
     return (
         <div className="baseDiv">
-            <h2 className="tituloFormData">CONTACTO</h2>
+            <h2 className="tituloFormData">Contacto</h2>
             <br/><br/>
             <div className="formulario">
 

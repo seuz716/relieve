@@ -6,12 +6,12 @@ export default function Misionvision() {
     return (
         <>
         <div className="contenedorMisionVision" >
-            <h1 className="HMisionVision">MISION</h1>
+            <h2 className="HMisionVision">Misión</h2>
             <p className="PMisionvision">
                Planear y desarrollar proyectos constructivos con valor social y ambiental, identificado por altos estandares de diseño y calidad ofreciendo siempre las mejores alternativas segun las necesidades propias de nuestros clientes   </p>  
         </div>
             
-            <h2 className="title">NUESTRO EQUIPO</h2>
+            <h2 className="title">Nuestro Equipo</h2>
 
             <div className="Nuestroequipo">
                 <div className="empleado1">

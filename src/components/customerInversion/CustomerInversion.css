@@ -27,6 +27,7 @@
     height: 350px;
     /* object-fit: cover; */
     padding: auto;
+    border-radius: 50%;
 }
 
 .btnInversion {
