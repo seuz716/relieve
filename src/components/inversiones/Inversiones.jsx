@@ -23,9 +23,9 @@ export default function Inversiones() {
         <div className="separador"> <h1 className="titulo">Relieve <br/> Una inversión con calidad de vida</h1></div>
         <div >
             
-            <p className="PqSomos">Para  nuestros clientes que buscan tener a través de su inversión una alternativa que les brinde calidad de vida para ellos y toda su familia, Relieve Experience satisface los requerimientos, así como oportunidades de crecimiento personal y profesional en el continente americano. El concepto de este proyecto, nace a partir de la necesidad de crear condiciones para  inmuebles con estándares de resort, que a la vez ofrezcan todas las comodidades y los lujos de una casa vacacional propia, sin preocuparse por una alta inversión, procesos de dotación, mantenimiento o administración de la propiedad.
+            <p className="PqSomos">Para  nuestros clientes que buscan tener n una alternativa que les brinde calidad para ellos y toda su familia, Relieve Ingenieria SAS  satisface los requerimientos, técnicos.
             <p ><br />
-            A través de este modelo de negocio, nuestros inversionistas serán titulares de  1 de las 10 exclusivas fracciones de copropiedad sobre una de nuestras nuevas viviendas. Esto les dará la posibilidad de tener garantizadas las vacaciones o de obtener nuevos ingresos mediante la renta del inmueble, optimizando la diversificación de la inversión y generando oportunidades para adquirir nuevas y espectaculares experiencias.</p>
+            Voluptate aute aliquip exercitation laboris tempor laborum. Laboris elit aliqua incididunt dolor culpa. Sit in aliqua est ex Lorem Lorem deserunt consequat enim quis ullamco commodo laboris. Et laborum voluptate ad qui..</p>
             </p>
         </div>
 
@@ -33,12 +33,10 @@ export default function Inversiones() {
         
       <div className="CustomerInversion">
               <div className="ContenedorParrafo">
-                  <p className="PqSomos">Ubicaciones  cerca de, biblioteca, parques,    restaurantes y reservas  <br/> naturales.           
-				          Codiciones  optimas y  cercanas  a  lugares  naturales  <br/>maravillosos
-				          Fauna y flora silvestre alrededor.
+                  <p className="PqSomos">Voluptate aute aliquip exercitation laboris tempor laborum. Laboris elit aliqua incididunt dolor culpa. Sit in aliqua est ex Lorem Lorem deserunt consequat enim quis ullamco commodo laboris.
                   Ademas de colegios,<br/> tiendas y cercanía aPine Island Marina.
 				          </p> 
-                  <p className="PqSomos">Relieves ejecuta el desarrollo de proyectos inmobiliarios con <br/>inversión pública y/o privada, así como el desarrollode zonas <br/> especiales empresariales de servicios a nivel internacional
+                  <p className="PqSomos">Voluptate aute aliquip exercitation laboris tempor laborum. Laboris elit aliqua incididunt dolor culpa. Sit in aliqua est ex Lorem Lorem deserunt consequat enim quis ullamco commodo laboris
                 </p>
               </div>
         
@@ -100,13 +98,13 @@ export default function Inversiones() {
            <div className="carousel-item">
                 <img src={sala} className="d-block w-100" width="304" height="380" alt="Apartamentos" />
                 <div className="carousel-caption d-none d-md-block">
-                  <h5 className="texto-borde">Fácil acceso a todo el portafolio de inmuebles</h5>
+                  <h5 className="texto-borde">Voluptate aute aliquip exercitation laboris tempor</h5>
                 </div>
            </div>
            <div className="carousel-item">
                 <img src={patio} className="d-block w-100" width="304" height="380" alt="Apartamentos" />
                 <div className="carousel-caption d-none d-md-block">
-                  <h5 className="texto-borde">inmuebles con estándares de resort</h5>
+                  <h5 className="texto-borde">Voluptate aute aliquip exercitation laboris tempor </h5>
                 </div>
            </div>
            <div className="carousel-item">
@@ -124,7 +122,7 @@ export default function Inversiones() {
            <div className="carousel-item">
                 <img src={water} className="d-block w-100" width="304" height="380" alt="Locales" />
                 <div className="carousel-caption d-none d-md-block">
-                  <h5 className="texto-borde">Exclusivas fracciones de copropiedad</h5>
+                  <h5 className="texto-borde">Voluptate aute aliquip exercitation laboris tempor</h5>
                 </div>
             </div>
            
