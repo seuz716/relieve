@@ -62,7 +62,7 @@ export default function SingUp() {
     }
 
     return (
-        <div style={{background:'#FF5733'}}>
+        <div style={{background:'#F7AA00'}}>
           <section className="h-100 gradient-form">
             <div className="container py-5 h-100">
               <div className="row d-flex justify-content-center align-items-center h-100">

@@ -12,7 +12,6 @@ export default function Home() {
     return (
       <div>
           <Slider />
-     
           <About />
           <Title  title="Servicios Relieve Ingeniería SAS"/>
           <Properties />

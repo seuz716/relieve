@@ -2,6 +2,10 @@ import React from 'react'
 import casa from '../../images/casa.jpg';
 import casa1 from '../../images/casa1.jpg';
 import ingenieros from '../../images/ingenieros.jpg';
+import farol from '../../images/sala2.png'
+import panoramica from '../../images/panoramica.png'
+import edificio from '../../images/edificio.png'
+import edificio1 from '../../images/panoramica1.png'
 
 export default function Slider() {
     return (
@@ -13,21 +17,21 @@ export default function Slider() {
             </div>
             <div className="carousel-inner">
               <div className="carousel-item active">
-                <img src={casa} className="d-block w-100" width="304" height="570" alt="Casas" />
+                <img src={edificio} className="d-block w-100" width="304" height="570" alt="Casas" />
                 <div className="carousel-caption d-none d-md-block">
                   <h5>First slide label</h5>
                   <p>Some representative placeholder content for the first slide.</p>
                 </div>
               </div>
               <div className="carousel-item">
-                <img src={casa1} className="d-block w-100" width="304" height="570" alt="Apartamentos" />
+                <img src={panoramica} className="d-block w-100" width="304" height="570" alt="Apartamentos" />
                 <div className="carousel-caption d-none d-md-block">
                   <h5>Second slide label</h5>
                   <p>Some representative placeholder content for the second slide.</p>
                 </div>
               </div>
               <div className="carousel-item">
-                <img src={ingenieros} className="d-block w-100" width="304" height="570" alt="Locales" />
+                <img src={edificio1} className="d-block w-100" width="304" height="570" alt="Locales" />
                 <div className="carousel-caption d-none d-md-block">
                   <h5>Third slide label</h5>
                   <p>Some representative placeholder content for the third slide.</p>

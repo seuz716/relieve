@@ -57,18 +57,22 @@ export default function Footer() {
                           Categorias
                         </h4>
                         <p> 
-                          <a href="#!" className="text" style={{color:'#606923'}}>Proyectos</a>
+                          <a href="proyectos" className="text" style={{color:'#606923'}}>Proyectos</a>
                         </p>
                         <p>
-                          <a href="#!" className="text" style={{color:'#606923'}}>Nosotros</a>
+                          <a href="misionvision" className="text" style={{color:'#606923'}}>Nosotros</a>
                         </p>
                         <p>
-                          <a href="#!" className="text" style={{color:'#606923'}} >Consultenos</a>
+                          <a href="servicios" className="text" style={{color:'#606923'}} >Consultenos</a>
                         </p>
                         <p>
-                          <a href="#!" className="text" style={{color:'#606923'}} >Obras </a>
+                          <a href="conocenos" className="text" style={{color:'#606923'}} >Obras </a>
                         </p>
-                      </div>
+                        <nav>
+
+				                   <a className="botonAbout" href="/">Inicio</a>
+			            			</nav>
+                     </div>
 
               {/*         <div className="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
 

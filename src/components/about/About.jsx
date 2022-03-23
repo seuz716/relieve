@@ -10,7 +10,7 @@ export default function About() {
                 de suma importancia construir con sentido social y ambiental, nuestra labor principal es brindar las
                 mejores opciones teniendo en cuenta las necesidades y requerimientos propios, de cada cliente, con
                 transparencia y plena satisfacción de haber superado las expectativas..</p>
-            <Link className="botonAbout" to="MisionVision">CONOCE MÁS</Link> 
+            <Link className="botonAbout" to="MisionVision">Conoce Más</Link> 
         </div>
     )
 }

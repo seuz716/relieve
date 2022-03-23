@@ -12,12 +12,12 @@ export default function CustomerInversion() {
     return (
         <div className="CustomerInversion">
               <div className="ContenedorBtn">
-                <img className="Customer" src={edificio} alt="" width="100%" /> <br />
+                <img className="Customer" src={finca} alt="" width="100%" /> <br />
                 <Link class="btnInversion" to="dashboard">Conoce Más</Link>
               </div> 
               
               <div className="ContenedorBtn">
-                <img className="Customer" src={edificio1} alt="" width="100%" /> <br /> 
+                <img className="Customer" src={familia} alt="" width="100%" /> <br /> 
                 <Link class="btnInversion" to="conocenos">Conoce Más</Link>
               </div>  
             
